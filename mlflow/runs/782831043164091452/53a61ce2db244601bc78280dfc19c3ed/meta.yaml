@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/madha saikumar/PycharmProjects/PythonProject8/notebooks/../mlflow/runs/782831043164091452/53a61ce2db244601bc78280dfc19c3ed/artifacts
+end_time: 1773999703997
+entry_point_name: ''
+experiment_id: '782831043164091452'
+lifecycle_stage: active
+run_id: 53a61ce2db244601bc78280dfc19c3ed
+run_name: XGBoost_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773999700031
+status: 3
+tags: []
+user_id: madha saikumar

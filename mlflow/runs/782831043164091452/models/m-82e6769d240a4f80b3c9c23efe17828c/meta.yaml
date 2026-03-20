@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/madha saikumar/PycharmProjects/PythonProject8/notebooks/../mlflow/runs/782831043164091452/models/m-82e6769d240a4f80b3c9c23efe17828c/artifacts
+creation_timestamp: 1773999514077
+experiment_id: '782831043164091452'
+last_updated_timestamp: 1773999519978
+model_id: m-82e6769d240a4f80b3c9c23efe17828c
+model_type: null
+name: xgb_regression_model
+source_run_id: 4db4b17f1062404f9b15c811d3e9173c
+status: 2
+status_message: null

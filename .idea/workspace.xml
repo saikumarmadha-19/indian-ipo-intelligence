@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9714db07-20db-4ddd-8d78-6c8ea721150f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/NIFTY_2010_2021.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/ipo_2010_2021.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/01_scraping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/02_cleaning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/03_eda.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/04_validation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/05_ml_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/06_lstm_model.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3BCT80iM2ehVNnK3sWttueX4b1x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/madha saikumar/PycharmProjects/PythonProject8/data/raw"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\madha saikumar\PycharmProjects\PythonProject8\data\raw" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9714db07-20db-4ddd-8d78-6c8ea721150f" name="Changes" comment="" />
+      <created>1773991893259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773991893259</updated>
+    </task>
+    <servers />
+  </component>
+</project>

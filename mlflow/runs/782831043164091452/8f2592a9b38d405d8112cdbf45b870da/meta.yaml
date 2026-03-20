@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/madha saikumar/PycharmProjects/PythonProject8/notebooks/../mlflow/runs/782831043164091452/8f2592a9b38d405d8112cdbf45b870da/artifacts
+end_time: 1773999715665
+entry_point_name: ''
+experiment_id: '782831043164091452'
+lifecycle_stage: active
+run_id: 8f2592a9b38d405d8112cdbf45b870da
+run_name: XGBoost_Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773999711615
+status: 3
+tags: []
+user_id: madha saikumar

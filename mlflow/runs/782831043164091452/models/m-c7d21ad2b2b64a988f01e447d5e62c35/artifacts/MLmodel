@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/madha saikumar/PycharmProjects/PythonProject8/notebooks/../mlflow/runs/782831043164091452/models/m-c7d21ad2b2b64a988f01e447d5e62c35/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.10.1
+model_id: m-c7d21ad2b2b64a988f01e447d5e62c35
+model_size_bytes: 1357452
+model_uuid: m-c7d21ad2b2b64a988f01e447d5e62c35
+prompts: null
+run_id: 8f2592a9b38d405d8112cdbf45b870da
+utc_time_created: '2026-03-20 09:41:51.924195'

@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/madha saikumar/PycharmProjects/PythonProject8/notebooks/../mlflow/runs/782831043164091452/models/m-dbdc2f1a8ff141e08ee40786070f4a3f/artifacts
+creation_timestamp: 1773999572307
+experiment_id: '782831043164091452'
+last_updated_timestamp: 1773999576156
+model_id: m-dbdc2f1a8ff141e08ee40786070f4a3f
+model_type: null
+name: xgb_classifier_model
+source_run_id: bc4cb7bd87044dfd9bf5c54398ac94b0
+status: 2
+status_message: null
