@@ -1,3 +1,5 @@
+## Live Demo
+👉 https://indian-ipo-intelligence-8adgxc95zuzyfid5j6kw34.streamlit.app/
 # Indian IPO Intelligence Platform
 
 An end-to-end data science project analyzing 259 Indian IPOs (2010–2021)
