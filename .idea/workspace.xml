@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714db07-20db-4ddd-8d78-6c8ea721150f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/NIFTY_2010_2021.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/ipo_2010_2021.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/01_scraping.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/02_cleaning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/03_eda.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/04_validation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/05_ml_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/06_lstm_model.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9714db07-20db-4ddd-8d78-6c8ea721150f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
